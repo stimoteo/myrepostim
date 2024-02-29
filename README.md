@@ -9,7 +9,7 @@ nova linha no RStudio
 
 ### Tabela
 
-|Posição| 1|
+|Posição| Números|
 |-------|--|
 |Estudantes| 1|
 |Docentes| 1|
