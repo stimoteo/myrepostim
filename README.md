@@ -10,4 +10,4 @@ nova linha no RStudio
 ## Acerca 
 Este repo é alterado no [workshop de Intro ao Github](https://iimpaqct.uc.pt/github-fiiiuc) - UC.
 
-Workshop pelo OCH
+Workshop pelo OCH.
